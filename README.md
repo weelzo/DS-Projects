@@ -1,2 +1,1 @@
-# DS-Projects
-My Projects in Data Scince
+# ML Projects
